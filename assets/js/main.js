@@ -86,4 +86,9 @@
 		$intro.prependTo($sidebar);
 	});
 
+	// // Carousel.
+	// $('.carousel').carousel({
+	// 	interval: 2000
+	// })
+
 })(jQuery);
